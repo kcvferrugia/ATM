@@ -1,0 +1,7 @@
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\bin\Debug\ATM.consoleapp.exe.config
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\bin\Debug\ATM.consoleapp.exe
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\bin\Debug\ATM.consoleapp.pdb
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\obj\Debug\ATM.consoleapp.csprojResolveAssemblyReference.cache
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\obj\Debug\ATM.consoleapp.csproj.CoreCompileInputs.cache
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\obj\Debug\ATM.consoleapp.exe
+c:\users\kcvf4\source\repos\ATM.consoleapp\ATM.consoleapp\obj\Debug\ATM.consoleapp.pdb
